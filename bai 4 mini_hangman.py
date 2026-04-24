@@ -6,7 +6,7 @@ import time
 
 
 DANH_SACH_TU = [
-    "python", "apple", "river", "cloud", "music",
+    "pham", "tung", "lam", "cloud", "music",
     "ocean", "tiger", "plant", "earth", "flame"
 ]
 
